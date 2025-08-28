@@ -1,5 +1,7 @@
 # Build a Three-Tier Web App
 
+![Image](https://github.com/dev-boris67/AWS-Basics/blob/main/Project%20images/19.png?raw=true).
+
 **Project Link:** [View Project](http://learn.nextwork.org/projects/aws-compute-threetier)
 
 **Author:** Nchindo Boris  
